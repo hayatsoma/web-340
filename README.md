@@ -1,2 +1,6 @@
-# web-340
-created for assignment 
+# WEB 340 Node.js
+
+Contributors
+-Richard Krasso
+-Hayat Soma
+
