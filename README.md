@@ -1,6 +1,6 @@
 # WEB 340 Node.js
 
-Contributors
+# Contributors
 -Richard Krasso
 -Hayat Soma
 
