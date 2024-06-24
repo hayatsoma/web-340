@@ -1,0 +1,17 @@
+{
+  "name": "taco-stand-app",
+  "version": "1.0.0",
+  "description": "A taco stand event emitter CLI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha --require esm",
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
