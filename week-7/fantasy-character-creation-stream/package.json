@@ -1,0 +1,20 @@
+{
+  "name": "fantasy-character-creation-stream",
+  "version": "1.0.0",
+  "description": "Character creation stream for a fantasy game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.11"
+  }
+}
+
